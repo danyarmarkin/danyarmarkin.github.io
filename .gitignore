@@ -1,0 +1,6 @@
+old_versions/*
+Blitz.py/*
+*.pyc
+*~
+__pycache__
+.DS_Store

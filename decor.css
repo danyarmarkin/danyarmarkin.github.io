@@ -1,0 +1,15 @@
+body{
+  background: #FFFFFF;
+}
+.button1{
+  padding: 8px;
+  border: 2px solid green;
+}.select-item{
+  border: 2px solid blue;
+}
+.answer_button{
+  padding: 8px;
+  border: 2px solid #8000FF;
+}.select-item{
+  background: #D018FF;
+}
